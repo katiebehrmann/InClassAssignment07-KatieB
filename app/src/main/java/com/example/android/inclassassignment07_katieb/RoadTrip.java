@@ -10,9 +10,9 @@ public class RoadTrip {
     private int miles;
     private boolean beenThere;
 
-    public RoadTrip(String place, int weather, boolean beenThere) {
+    public RoadTrip(String place, int miles, boolean beenThere) {
         this.place = place;
-        this.miles = weather;
+        this.miles = miles;
         this.beenThere = beenThere;
     }
 

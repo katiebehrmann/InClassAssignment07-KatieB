@@ -15,7 +15,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Set"
+        android:text="Set Title"
         android:layout_marginRight="16dp"
         android:layout_marginLeft="16dp"
         android:onClick="set" />
